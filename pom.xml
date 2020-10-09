@@ -177,6 +177,11 @@
       </dependency>
       <dependency>
         <groupId>com.kytc</groupId>
+        <artifactId>framework-exception</artifactId>
+        <version>${framework.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>com.kytc</groupId>
         <artifactId>framework-web</artifactId>
         <version>${framework.version}</version>
       </dependency>
